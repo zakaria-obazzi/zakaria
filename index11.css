@@ -1,0 +1,126 @@
+body{  
+    background: url(bg8.jpg);
+    background-repeat: no-repeat;
+    margin: 0px;
+    border: none;
+}
+ .login {
+    margin: 5% 50%;
+    transform: translate(45%,0%);
+    background: rgb(0, 0, 50,0.2);
+    border-radius: 50px;
+    width: 300px ;
+    height:365px;
+}
+.pass {
+    background: rgb(0, 0, 0,0.05);
+    border: none;
+    border-radius: 5px;
+    border-bottom: 2px solid blue;
+    width: 220px;
+    height: 33px;
+    transform: translate(15%,125%);
+    font-size: 14px;
+    outline: none;
+    cursor:text;
+}
+.sign {
+    width: 120px;
+    height: 33px;
+    transform: translate(72%,200%);
+    background-color: blue;
+    border: none;
+    border-radius: 7px;
+    color: white; 
+    font-size: 15px;
+    outline: none;
+    cursor:grab;
+}
+.sss {
+    transform: translate(25%,390%);    
+}
+.em {
+    background: rgb(0, 0, 0,0.05);
+    border: none;
+    border-radius: 5px;
+    color: black;
+    border-bottom: 2px solid blue;
+    width: 220px;
+    height: 33px;
+    transform: translate(15%,100%);
+    font-size: 14px;
+    outline: none;
+    cursor:text;
+}
+.ll {
+    width: 200px;
+    transform: translate(25%,15%);
+    background: rgb(0, 0, 70,0.5);
+    border-radius: 16px;
+}
+.chee {
+    background: rgb(0, 0, 50,0.2);    
+    height: 65px;
+    width: 600px;
+    border-radius: 16px;
+}
+.ch {
+    transform: translate(15.5%,0%);
+    width: 300px;
+    height: 35px;
+    border: none;
+    border-radius: 7px;
+    border-bottom: 3px black solid;
+    background: rgb(0, 0, 0,0.3);
+    color: white;
+    font-size: 14px;
+    outline: none;
+    cursor:text;
+}
+.shh {
+    transform: translate(45%,-4%);
+    height: 35px;
+    width: 100px;
+    background: rgb(0, 0, 0,0.3);
+    color: white;
+    border: none;
+    border-bottom: 3px black solid;
+    border-radius: 7px;
+    cursor: grab;
+}
+.gg {
+    width: 100px;
+    transform: translate(50%,45%);
+} 
+.j{
+    transform: translate(500px,-50px);
+
+    display: flex;
+    justify-content: right;
+    gap:10px;
+    justify-content: center;
+}
+.bu {
+    outline: none;
+    border: none;
+    border-bottom: 3px blueviolet solid;
+    border-radius: 10px;
+    color: white;
+    background: rgba(0,0, 0,0.5);
+    height: 35px;
+    width:80px;
+    font-family: Impact,'Haettenschweiler' , 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    cursor:grab;
+}
+.bmp {
+    color: aliceblue;
+    width: 500px;
+    height: 100px;
+    transform: translate(200px,100px);
+    font-size: 40px;
+    background-color: red;
+    border: none;
+    border-radius: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
